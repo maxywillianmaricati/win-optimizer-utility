@@ -1,2 +1,1 @@
-# otimizacao
-scriptzinho .bat de codigo aberto simples pra facilitar algumas coisas uteis
+A simple open-source .bat script to streamline useful everyday tasks.
